@@ -2,7 +2,7 @@
 Class materials from Georgia Tech ISYE 6501 Spring 2021
 This is an Introduction to Data Analytics course.
 15 week course
-2 Midterms, 1 project and 1 Final Exam
+2 Midterms, 1 project and 1 Final Exam. Option to not turn in 2 assignments. Later weeks may not have assignments. 
 
 Course used R and some Python
 Good knowledge of Statistics is required.
